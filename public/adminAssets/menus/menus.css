@@ -1,0 +1,17 @@
+#menu-name, #menu-order, #menu-url {
+    padding-left: 12px;
+}
+
+#parent-menu {
+    background-color: transparent;
+    appearance: auto;
+    padding-bottom: 3px;
+    padding-top: 2px;
+}
+
+table td {
+    word-wrap: break-word;
+    word-break: break-all;
+    white-space: wrap !important;
+    padding: 7px !important;
+}
